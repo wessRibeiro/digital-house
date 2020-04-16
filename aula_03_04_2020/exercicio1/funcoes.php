@@ -12,7 +12,7 @@
     //apresentar uma mensagem OK
 */
 
-//valor padrao 0
+//valor padrao 0 para não quebrar o php
 function verificarInteiroOuIntervalo($valor = 0)
 {
     $msg = '';

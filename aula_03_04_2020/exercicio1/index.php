@@ -34,7 +34,7 @@
                name="valor"
                placeholder="Digite o valor aqui"
                id="valor"
-               required/>
+               />
 
         <!-- variavel do html -->
         <button type="submit">enviar</button>
